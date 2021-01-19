@@ -13,15 +13,15 @@ Morphological plasticity can enable algae to adapt to environmental change and i
 
 ## Usage Notes
 
-# FilamentousGrowth
+### FilamentousGrowth.R
 Rcode to: i) Compare the area of Caulerpa cylindracea, between treatments, at the beginning and end of the extreme temperature experiment, and to: ii) Compare the thickness of C. cylindracea´s filaments vs the thickness of C. cylindracea´s stolons from different populations.
 
-# Area
+### Area.RData
 Dataset with the measurements of C. cylindracea´s area at the beginning and end of the extreme temperature experiment. It is needed to perform the statistical model to compare the area of C. cylindracea between treatments.
 
-# Filaments
+### Filaments.RData
 Dataset with the thickness measurements for C. cylindracea´s filaments and C. cylindracea´s stolons from different populations. It is needed to perform the statistical model to compare the thickness between morphological structures (filaments vs. stolons) and between stolons from different populations.
 
-# MarineHeatWaves
+### MarineHeatWaves.R
 Rcode to: i) Download Sea Surface Temperature (SST) data from NOAA (Reynolds Optimally Interpolated Sea Surface Temperature (OISST)), and to: ii) Calculate Marine Heat Waves (MHWs) at the location of interes with the heatwaveR package
 
