@@ -1,12 +1,17 @@
 # Filamentous Morphology Caulerpa
-Data from: Stressful Conditions Give Rise to a Novel and Cryptic Filamentous Form of <i>Caulerpa cylindracea</i>
 
-### Authors:
+## Article title:
+Stressful Conditions Give Rise to a Novel and Cryptic Filamentous Form of <i>Caulerpa cylindracea</i>
+
+#### Journal:
+Frontiers in Marine Science
+
+##### Authors:
 Jorge Santamaría, Raül Golo, Emma Cebrian, María García, Alba Vergés
 
+##### Script authors:
+J. Santamaría (jorge.santamaria@udg.edu) & R. Golo (raul.gonzalez@udg.edu)
 
-# - SCRIPT: J. Santamaría (jorge.santamaria@udg.edu) & R. Golo (raul.gonzalez@udg.edu)
-# - JOURNAL: Frontiers in Marine Science
 
 ## Abstract
 
